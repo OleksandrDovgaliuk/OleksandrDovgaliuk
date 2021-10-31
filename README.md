@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OleksandrDovgaliuk
+- 👋 Hi, I’m @OleksandrDovgaliuk 14 y.o Ukraine
 - 👀 I’m interested in Web (react)
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
